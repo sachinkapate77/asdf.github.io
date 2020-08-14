@@ -1,0 +1,14 @@
+.artical{
+
+	margin: 10px;
+	margin-top: 10px;
+	padding:0px 0px;
+	float: left;
+	border: 1px solid;
+	text-align: center;
+}
+
+.artical p{
+	text-decoration: none;
+	
+}
